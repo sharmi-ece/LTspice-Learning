@@ -1,6 +1,5 @@
 # LTspice-Learning
 Learning LTspice through circuit simulation projects and electronics fundamentals.
-# LTspice Learning
 
 This repository contains my LTspice learning projects and circuit simulations.
 
